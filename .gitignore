@@ -1,2 +1,5 @@
 db-data/*
+!db-data
 public/*
+!public
+.directory
